@@ -44,7 +44,7 @@
 
 ### Arquivos
 
-- [Apresentação](conteudo/semana-1/_Apresentação.pdf)
+- [Apresentação](conteudo/semana-1/Apresentação.pdf)
 
 ## Semana 2 (15/02)
 
@@ -74,7 +74,7 @@
   - Seção 2.1 (Sistema de visão humana)
   - Seção 2.2 (Características ópticas da luz)
   - Seção 2.3 (Percepção de cor)
-- **How Your Eyes Make Sense of the World | Decoder**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=hsh2kPdgazo" target="_blank">YouTube</a>.
+- **How Your Eyes Make Sense of the World**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=hsh2kPdgazo" target="_blank">YouTube</a>.
 - **The Visual System: How Your Eyes Work**. Vídeo disponível no <a href="https://www.youtube.com/watch?v=TY1giZgddAs" target="_blank">YouTube</a>.
 
 ## Semana 3 (22/02)
