@@ -40,7 +40,7 @@
 
 ### Online
 
-- Realizar atividade proposta na semana (enunciado)
+- [Atividade 1 (O que é Computação Visual?)](atividades/n1-ativ01.md)
 
 ### Arquivos
 
@@ -58,7 +58,7 @@
 
 ### Online
 
-- Realizar atividade proposta na semana.
+- [Atividade 2 (Aplicações de Computação Visual)](atividades/n1-ativ02.md)
 
 ### Arquivos
 
@@ -89,7 +89,7 @@
 
 ### Online
 
-- Realizar atividade proposta na semana.
+- [Atividade 3 (Formatos de imagem)](atividades/n1-ativ03.md)
 
 ### Arquivos
 
