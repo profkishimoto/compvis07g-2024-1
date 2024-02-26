@@ -7,27 +7,26 @@
 > **Universidade Presbiteriana Mackenzie**<br>
 > **FCI** – Faculdade de Computação e Informática<br>
 > **Ciência da Computação**<br>
-> Disciplina: **Computação Visual – 07G** (7ª etapa)<br>
+> Disciplina: **Computação Visual** (7ª etapa)<br>
 > Professor: **André Kishimoto**
 
 > **1º semestre 2024**<br>
-> **quinta-feira** (02 h/a), **07:30** às **09:10**, prédio 33 – sala 104<br>
-> **online** (02 h/a), **assíncrono**
-
-### Como entrar em contato com o professor?
-
-E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
-
+> **quinta-feira**, **07:30** às **09:10** (2hs/aula) - 07G (**prédio 33 - sala 104**)<br>
+> **online**, **assíncrono** (2hs/aula)
 
 ### Calendário Escolar
 
 **Calendário Escolar**, **Regulamento Acadêmico** e outras informações: <a href="https://www.mackenzie.br/universidade/processos-academicos-para-coordenadoria-geral-de-relacionamento-e-atendimento/informacoes-ao-aluno/calendario-escolar" target="_blank">CLIQUE AQUI</a>
 
-
 ### Plano de ensino
 
 **Plano de ensino** disponível no link a seguir:
-[Plano de ensino](conteudo/plano-de-ensino/CC_7G_Plano_de_ensino_ComputacaoVisual_2024_1.pdf)
+[Plano de ensino (pdf)](conteudo/plano-de-ensino/CC_7G_Plano_de_ensino_ComputacaoVisual_2024_1.pdf)
+
+### Como entrar em contato com o professor?
+
+- **Moodle**: envie mensagem direta.
+- **E-mail**: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.br</a>
 
 
 ## EXERCÍCIOS E AVALIAÇÕES
@@ -60,7 +59,7 @@ E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.
 
 ### Arquivos
 
-- [Apresentação](conteudo/semana-1/Apresentação.pdf)
+- [Apresentação (pdf)](conteudo/semana-1/Apresentação.pdf)
 
 
 ## Semana 2 (15/02)
@@ -79,8 +78,8 @@ E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.
 
 ### Arquivos
 
-- [Introdução](conteudo/semana-2/Introdução.pdf)
-- [Fundamentos da imagem digital 1](conteudo/semana-2/Fundamentos%20da%20imagem%20digital%2001.pdf)
+- [Introdução (pdf)](conteudo/semana-2/Introdução.pdf)
+- [Fundamentos da imagem digital 1 (pdf)](conteudo/semana-2/Fundamentos%20da%20imagem%20digital%2001.pdf)
 
 ### Referências e recursos
 
@@ -111,7 +110,7 @@ E-mail: <a href="mailto:andre.kishimoto@mackenzie.br">andre.kishimoto@mackenzie.
 
 ### Arquivos
 
-- [Fundamentos da imagem digital 2](conteudo/semana-3/Fundamentos%20da%20imagem%20digital%2002.pdf)
+- [Fundamentos da imagem digital 2 (pdf)](conteudo/semana-3/Fundamentos%20da%20imagem%20digital%2002.pdf)
 
 ### Referências e recursos
 
