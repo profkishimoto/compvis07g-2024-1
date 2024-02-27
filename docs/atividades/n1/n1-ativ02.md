@@ -1,5 +1,9 @@
 # UPM CC - Computação Visual 07G (2024.1)
 
+***Copyright &copy; 2024 André Kishimoto. Todos os direitos reservados.***
+
+[Home ⤴](../../index.md)
+
 ## Semana 2: Online - Teoria (Aplicações de Computação Visual)
 
 Atividade em grupo de até 4 pessoas.
