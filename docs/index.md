@@ -35,7 +35,7 @@
 - [Atividade 2 (Aplicações de Computação Visual)](atividades/n1/n1-ativ02.md) - Entrega até 03/03/2024 23:59
 - [Atividade 3 (Formatos de imagem)](atividades/n1/n1-ativ03.md) - Entrega até 10/03/2024 23:59
 - <a href="https://classroom.github.com/a/PlqtH8l6" target="_blank">Atividade 4 (GitHub Classroom - AP1)</a> - Entrega até 17/03/2024 23:59
-
+- <a href="https://classroom.github.com/a/aI3ynVhe" target="_blank">Atividade 5 (GitHub Classroom - AP2)</a> - Entrega até 24/03/2024 23:59
 
 ## ÍNDICE DE AULAS
 
@@ -43,6 +43,7 @@
 - [Semana 2: Fundamentos da imagem digital](#semana-2-1502)
 - [Semana 3: Fundamentos da imagem digital (cont.)](#semana-3-2202)
 - [Semana 4: Transformações de intensidade e histograma](#semana-4-2902)
+- [Semana 5: Interpolação e filtragem espacial](#semana-5-0703)
 
 
 ## Semana 1 (08/02)
@@ -150,3 +151,31 @@
 - AZEVEDO, E.; CONCI, A.; LETA, F. **Computação gráfica: teoria e prática vol. 2**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Seção 3.4 (Histograma de Imagem Digital)
   - Seção 3.6 (Operações Pontuais Globais em Imagens)
+
+
+## Semana 5 (07/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Interpolação.
+- Filtragem espacial.
+
+### Online
+
+- <a href="https://classroom.github.com/a/aI3ynVhe" target="_blank">Atividade 5 (GitHub Classroom - AP2)</a> - Entrega até 24/03/2024 23:59
+
+### Arquivos
+
+- [Interpolação e Filtragem Espacial (pdf)](conteudo/semana-5/Interpolação%20e%20filtragem%20espacial.pdf)
+
+### Referências e recursos
+
+- GONZALEZ, R. C.; WOODS, R. E. **Processamento digital de imagens, 3ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=pearson" target="_blank">Biblioteca Virtual Universitária 3.0</a>.
+  - Seção 2.4.4 (Interpolação de imagens)
+  - Seção 3.4 (Fundamentos da filtragem espacial)
+  - Seção 3.5 (Filtros espaciais de suavização)
+- AZEVEDO, E.; CONCI, A.; LETA, F. **Computação gráfica: teoria e prática vol. 2**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Seção 5.2.1 (Filtros Lineares e Não-Lineares)
+  - Seção 5.2.3 (Filtros Passa-Baixa - Filtros de Suavização)
