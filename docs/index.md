@@ -44,6 +44,7 @@
 - [Semana 3: Fundamentos da imagem digital (cont.)](#semana-3-2202)
 - [Semana 4: Transformações de intensidade e histograma](#semana-4-2902)
 - [Semana 5: Interpolação e filtragem espacial](#semana-5-0703)
+- [Semana 6: Aula Magna da Graduação]()
 
 
 ## Semana 1 (08/02)
@@ -179,3 +180,11 @@
 - AZEVEDO, E.; CONCI, A.; LETA, F. **Computação gráfica: teoria e prática vol. 2**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
   - Seção 5.2.1 (Filtros Lineares e Não-Lineares)
   - Seção 5.2.3 (Filtros Passa-Baixa - Filtros de Suavização)
+
+
+## Semana 6 (14/03)
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+Aula Magna da Graduação (não haverá aula da disciplina).
+
