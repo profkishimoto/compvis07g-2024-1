@@ -44,7 +44,7 @@
 - [Semana 3: Fundamentos da imagem digital (cont.)](#semana-3-2202)
 - [Semana 4: Transformações de intensidade e histograma](#semana-4-2902)
 - [Semana 5: Interpolação e filtragem espacial](#semana-5-0703)
-- [Semana 6: Aula Magna da Graduação]()
+- [Semana 6: Aula Magna da Graduação](#semana-6-1403)
 
 
 ## Semana 1 (08/02)
