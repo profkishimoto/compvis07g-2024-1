@@ -31,9 +31,11 @@
 
 ## DATAS IMPORTANTES
 
+**Observação**: Datas planejadas e sujeitas a alterações.
+
 - **P1**: 28/03/2024
-- **Projeto**: 26/05/2024
 - **P2**: 23/05/2024
+- **Projeto**: 26/05/2024
 - **SUB**: 06/06/2024
 - **PF**: 13/06/2024
 
