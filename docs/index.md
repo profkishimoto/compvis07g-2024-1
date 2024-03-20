@@ -47,7 +47,7 @@
 - [Atividade 3 (Formatos de imagem)](atividades/n1/n1-ativ03.md) - Entrega até 10/03/2024 23:59
 - <a href="https://classroom.github.com/a/PlqtH8l6" target="_blank">Atividade 4 (GitHub Classroom - AP1)</a> - Entrega até 17/03/2024 23:59
 - <a href="https://classroom.github.com/a/aI3ynVhe" target="_blank">Atividade 5 (GitHub Classroom - AP2)</a> - Entrega até 24/03/2024 23:59
-
+- <a href="https://classroom.github.com/a/J7RUqCrv" target="_blank">Atividade 6 (GitHub Classroom - AP3)</a> - Entrega até 07/04/2024 23:59
 
 ## ÍNDICE DE AULAS
 
@@ -57,6 +57,7 @@
 - [Semana 4: Transformações de intensidade e histograma](#-semana-4-2902-)
 - [Semana 5: Interpolação e filtragem espacial](#-semana-5-0703-)
 - [Semana 6: Aula Magna da Graduação](#-semana-6-1403-)
+- [Semana 7: Filtros e detecção de bordas](#-semana-7-2103-)
 
 
 ## ■■■■■ Semana 1 (08/02) ■■■■■
@@ -200,3 +201,27 @@
 
 Aula Magna da Graduação (não haverá aula da disciplina).
 
+
+## ■■■■■ Semana 7 (21/03) ■■■■■
+
+[Índice de aulas ⤴](#índice-de-aulas)
+
+### Objetivos da semana
+
+- Filtragem espacial.
+- Detecção de bordas.
+
+### Online
+
+- <a href="https://classroom.github.com/a/J7RUqCrv" target="_blank">Atividade 6 (GitHub Classroom - AP3)</a> - Entrega até 07/04/2024 23:59
+
+### Arquivos
+
+- [Filtros e detecção de bordas (pdf)](conteudo/semana-7/Filtros%20e%20detecção%20de%20bordas.pdf)
+
+### Referências e recursos
+
+- GONZALEZ, R. C.; WOODS, R. E. **Processamento digital de imagens, 3ª edição**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=pearson" target="_blank">Biblioteca Virtual Universitária 3.0</a>.
+  - Seção 3.6 (Filtros espaciais de aguçamento)
+- AZEVEDO, E.; CONCI, A.; LETA, F. **Computação gráfica: teoria e prática vol. 2**. Disponível na <a href="https://web3.mackenzie.br/biblioteca/access?libType=minhabiblioteca" target="_blank">Minha Biblioteca</a>.
+  - Seção 5.2.4 (Filtros Passa-Alta ou de Acentuação)
